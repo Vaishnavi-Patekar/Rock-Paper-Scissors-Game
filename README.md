@@ -17,6 +17,6 @@ A fun, interactive Rock-Paper-Scissors web game built using **HTML**, **CSS**, a
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live website]()
+👉 [Click here to view the live website](https://vaishnavi-patekar.github.io/Rock-Paper-Scissors-Game/)
 
 ---
